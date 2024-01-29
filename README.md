@@ -55,7 +55,7 @@ __Sell__:This column shows the selling rate of the currency.
 
 ## Project Structure
 1. Exploratory Data Analysis (EDA)
-2. Data Preprocessing - Resampling, Testing for Trends, Diffencing, Decomposition, Train-Test Split, Checking for best ARIMA & SARIMA Orders
+2. Data Preprocessing - Resampling, Testing for Trends, Differencing, Decomposition, Train-Test Split, Checking for best ARIMA & SARIMA Orders, Hypertuning 
 3. Modelling - ARIMA, SARIMA, Facebook Prophet & LSTM (Long Short - Term Memory)
 4. Model Evaluation - using MAE and RSME
 5. Deployment
