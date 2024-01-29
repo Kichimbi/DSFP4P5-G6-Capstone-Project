@@ -65,6 +65,7 @@ __Sell__:This column shows the selling rate of the currency.
 ### Super Price Forecast
 ### Forecast Prediction forecast
 ![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/aaa812d6-6711-4696-9deb-fc02b5b4cb9d)
+
 The Facebook Prophet model performed the best in predicting super fuel values, with the lowest Mean Absolute Error (MAE) (3.30) and Root Mean Square Error (RMSE) (4.18) among the models evaluated. Following closely in performance, the SARIMA model exhibited the second-best results MAE (3.29) and RMSE (4.98), ARIMA was third with MAE (3.34) and RMSE (5.25) while the LSTM model showed the least accuracy among the models tested with MAE (4.02) and RMSE (6.09).
 
 ### 5 Year Forecast Using Facebook Prophet
@@ -74,6 +75,7 @@ The Facebook Prophet model performed the best in predicting super fuel values, w
 ### Diesel Price Forecast
 ### Forecast Prediction forecast
 ![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/2fc953e9-26c9-47dd-9223-a9a1603aef5c)
+
 The Facebook Prophet model outperformed the other models in terms of both MAE (3.55)  and RMSE (5.07), making it the best-performing model for predicting diesel fuel values. Following closely in performance, the ARIMA model displayed the second-best results MAE (3.59) and RMSE (5.99), SARIMA was third with MAE (3.98) and RMSE (6.37) while the LSTM model exhibited the least accuracy among the models evaluated with MAE (4.26) and RMSE (7.30).
 
 ### 5 Year Forecast Using Facebook Prophet
