@@ -23,6 +23,7 @@ The aim of this project is to utilize advanced time series analysis methods, suc
 The Dataset consists of fuel prices sourced from Energy and Petroleum Regulatory Authority(EPRA) https://www.epra.go.ke/services/petroleum/petroleum-prices/ and US Dollar Exchange Rate source Central Bank of Kenya https://www.centralbank.go.ke/rates/forex-exchange-rates/. 
 
 The dataset consists of the following columns;
+
 **EPRA Dataset**
 
 *__Date__: This column records the date of the data entry.
