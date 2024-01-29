@@ -29,7 +29,7 @@ The Dataset consists of fuel prices sourced from Energy and Petroleum Regulatory
 
 The dataset consists of the following columns;
 
-**EPRA Dataset**
+### EPRA Dataset
 
 __Date__: This column records the date of the data entry.
 
@@ -41,7 +41,7 @@ __Diesel__: This column refers to the price of 'Diesel' grade fuel.
 
 __Kerosene__: This column refers to the price of 'Kerosene' grade fuel.
 
-**CBK Exchange Rate Data**
+### CBK Exchange Rate Data
 
 __Date__: This column records the date of each exchange rate entry.
 
