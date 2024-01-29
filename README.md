@@ -20,21 +20,31 @@ The aim of this project is to utilize advanced time series analysis methods, suc
 
 ## Data Understanding 
 
-The Dataset consists of fuel prices sourced from [Energy and Petroleum Regulatory Authority(EPRA)] https://www.epra.go.ke/services/petroleum/petroleum-prices/ and [US Dollar Exchange Rate source Central Bank of Kenya] https://www.centralbank.go.ke/rates/forex-exchange-rates/. 
+The Dataset consists of fuel prices sourced from Energy and Petroleum Regulatory Authority(EPRA) https://www.epra.go.ke/services/petroleum/petroleum-prices/ and US Dollar Exchange Rate source Central Bank of Kenya https://www.centralbank.go.ke/rates/forex-exchange-rates/. 
 
 The dataset consists of the following columns;
 **EPRA Dataset**
+
 *__Date__: This column records the date of the data entry.
+
 *__Towns__: This column lists various towns.
+
 *__Super__: This column refers to the price of 'Super' grade fuel.
+
 *__Diesel__: This column refers to the price of 'Diesel' grade fuel.
+
 *__Kerosene__: This column refers to the price of 'Kerosene' grade fuel.
 
 **CBK Exchange Rate Data**
+
 *__Date__: This column records the date of each exchange rate entry.
+
 *__Currency__: This column specifies the foreign currency for which the exchange rate is given.
+
 *__Mean__: This column shows the average exchange rate for the specified currency on the given date. 
+
 *__Buy__: This column indicates the buying rate of the currency.
+
 *__Sell__:This column shows the selling rate of the currency.
 
 ## Project Structure
@@ -46,7 +56,13 @@ The dataset consists of the following columns;
 
 ## Results
 
-### Furniture Sales Forecast
+### Super Price Forecast
+
+### Diesel Price Forecast
+
+### Kerosene Price Forecast
+
+
 
 ## Model Deployment 
 
