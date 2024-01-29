@@ -63,14 +63,31 @@ __Sell__:This column shows the selling rate of the currency.
 ## Results
 
 ### Super Price Forecast
+### Forecast Prediction forecast
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/aaa812d6-6711-4696-9deb-fc02b5b4cb9d)
+The Facebook Prophet model performed the best in predicting super fuel values, with the lowest Mean Absolute Error (MAE) (3.30) and Root Mean Square Error (RMSE) (4.18) among the models evaluated. Following closely in performance, the SARIMA model exhibited the second-best results MAE (3.29) and RMSE (4.98), ARIMA was third with MAE (3.34) and RMSE (5.25) while the LSTM model showed the least accuracy among the models tested with MAE (4.02) and RMSE (6.09).
+
+### 5 Year Forecast Using Facebook Prophet
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/515d83ca-838d-43ab-af30-2bd9895a0ee1)
+
 
 ### Diesel Price Forecast
+### Forecast Prediction forecast
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/2fc953e9-26c9-47dd-9223-a9a1603aef5c)
+The Facebook Prophet model outperformed the other models in terms of both MAE (3.55)  and RMSE (5.07), making it the best-performing model for predicting diesel fuel values. Following closely in performance, the ARIMA model displayed the second-best results MAE (3.59) and RMSE (5.99), SARIMA was third with MAE (3.98) and RMSE (6.37) while the LSTM model exhibited the least accuracy among the models evaluated with MAE (4.26) and RMSE (7.30).
+
+### 5 Year Forecast Using Facebook Prophet
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/40d3ebf1-ac12-410a-b2b8-3c90919bb3f9)
 
 ### Kerosene Price Forecast
+### Forecast Prediction forecast
 
+The Facebook Prophet model performed the best in predicting kerosene fuel values, with the lowest MAE (4.26) and RMSE (8.61) among the models evaluated. Following in performance, the ARIMA model displayed the second-best results with MAE (4.04) and RMSE (6.92), SARIMA was third with MAE (6.10), RMSE (8.61) while the LSTM model showed the least accuracy among the models tested for kerosene prediction with MAE (4.98) and RMSE (9.01).
 
+### 5 Year Forecast Using Facebook Prophet
 
 ## Model Deployment 
+The deployed model can accessed and tested here
 
 ## Summary 
 
