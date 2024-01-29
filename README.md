@@ -35,11 +35,11 @@ __Date__: This column records the date of the data entry.
 
 __Towns__: This column lists various towns.
 
-__Super__: This column refers to the price of 'Super' grade fuel.
+__Super__: This column shows the prices of 'Super' grade fuel.
 
-__Diesel__: This column refers to the price of 'Diesel' grade fuel.
+__Diesel__: This column shows the prices of 'Diesel' grade fuel.
 
-__Kerosene__: This column refers to the price of 'Kerosene' grade fuel.
+__Kerosene__: This column shows the prices of 'Kerosene' grade fuel.
 
 ### CBK Exchange Rate Data
 
