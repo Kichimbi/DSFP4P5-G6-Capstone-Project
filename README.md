@@ -83,20 +83,39 @@ The Facebook Prophet model outperformed the other models in terms of both MAE (3
 
 ### Kerosene Price Forecast
 ### Forecast Prediction forecast
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/996723b6-3f9f-4666-84ea-3bec9cd51285)
 
 The Facebook Prophet model performed the best in predicting kerosene fuel values, with the lowest MAE (4.26) and RMSE (8.61) among the models evaluated. Following in performance, the ARIMA model displayed the second-best results with MAE (4.04) and RMSE (6.92), SARIMA was third with MAE (6.10), RMSE (8.61) while the LSTM model showed the least accuracy among the models tested for kerosene prediction with MAE (4.98) and RMSE (9.01).
 
 ### 5 Year Forecast Using Facebook Prophet
+![image](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/96abdd61-b74a-45b1-ac14-7fa92f295451)
 
 ## Model Deployment 
 The deployed model can accessed and tested here
 
 ## Summary 
+The forecasting models (ARIMA, SARIMA, Facebook Prophet, and LSTM) exhibit different performances, highlighting the importance of choosing the right model for each product category.
+
+While the project yields valuable insights into fuel price trends and model performances, challenges in achieving precise forecasts persist due to government policies, fluctuations in USD exchange rates, and other external factors.
+
+Efficient utilization of time series models can aid in predicting fuel price fluctuations, but ongoing adjustments to external factors are crucial to address the inherent unpredictability in fuel price changes.
 
 ### Recommendations
 
 
 ### Limitations
+
+Predicting fuel prices using models has several limitations:
+
+- **External Factors**: Fuel prices are heavily influenced by external factors such as geopolitical events, economic conditions, and government policies. Models may struggle to capture these complex and dynamic influences accurately.
+  
+- **Non-Stationarity**: Fuel price data often exhibits non-stationary behavior, with changing statistical properties over time.
+  
+- **Short-Term Focus**: Many models perform better in the short term but may struggle with long-term predictions due to the complexity of underlying factors.
+  
+- **Uncertainty**: Predictions are inherently uncertain, and models often provide a range of possible outcomes rather than precise values.
+  
+- **Regulatory Changes**: Government regulations and policies, like taxation or subsidies, can have abrupt and profound effects on fuel prices that models may struggle to predict accurately.
 
 
 Capstone Checklist: https://github.com/learn-co-curriculum/dsc-capstone-submission-checklist.git
