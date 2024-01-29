@@ -6,7 +6,7 @@ Student Names
 * Eva Kiio
 * George Odhiambo
 * Bedan Njoroge
-* Abdi S Mohammed
+* Abdihakim S Mohammed
 * Sophie Owour
 * Laban Kariuki
 
