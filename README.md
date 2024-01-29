@@ -1,4 +1,6 @@
 ## DSFP4P5-G6-Capstone-Project
+
+## Fuel-Prices-Prediction-Time-Series-Analysis
 ![fuel-price](https://github.com/Kichimbi/DSFP4P5-G6-Capstone-Project/assets/118848352/e6f6c958-ddeb-4387-a768-946286925400)
 
 **Group 6**
