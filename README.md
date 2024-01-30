@@ -102,8 +102,8 @@ Efficient utilization of time series models can aid in predicting fuel price flu
 
 ### Recommendations
 
-
-
+1. Implement FaceBook Prophet as the preditor models. FaceBook Prophet had the best performance in predicting super, diesel and kerosene prices and thus stakeholders should implement it as the predictor model.
+2. Incorporate external factors like regulatory changes that might impact the future of the fuel industry.
 
 
 ### Limitations
