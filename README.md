@@ -15,8 +15,9 @@ This project, "Fuel Trend Analysis: Advanced Machine Learning for Predictive Fue
 
 ## Project Objective
 The aim of this project is to utilize advanced time series analysis methods, such as ARIMA, SARIMA, Facebook Prophet, and LSTM models, to analyze fuel price data for super, diesel, and kerosene provided by the EPRA. The specific objectives of this project are:
-1. Analyze fuel price trend 
-2. Optimization of demand
+1. Analyze the relationship between fuel prices and the USD exchange rate to understand external economic impacts. 
+2. Implement and compare various machine learning models for time series forecasting, identifying the most accurate and efficient model.
+3. Develop a user-friendly platform for stakeholders to access and utilize these predictive insights for planning and decision-making.
 
 ### Significance
 This project focuses on creating a model to forecast fuel prices, aiding consumers in budgeting, businesses in strategy, and government agencies in policy-making. Emphasizing data-driven decision-making, it aims to stabilize the economy against fuel price volatility and sets a new standard in Kenya's fuel market analytics, bolstering economic planning and resilience.
